@@ -1,0 +1,46 @@
+body{
+	background-color: lightcoral;
+}
+p{
+	font-size: 50px;
+	font-family: "Pacifico", cursive;
+	text-align: center;
+	color: mediumaquamarine;
+	background-color: yellow;
+}
+ul, ol, dl{
+	font-size: 24px;
+	color: navajowhite;
+}
+.l1 li::marker{
+	color: greenyellow;
+	font-size: 1.1em;
+}
+.l2 li{
+	padding-left: 10px;
+}
+ol, ul{
+	margin-left: 50px;
+}
+@counter-style emoji {
+  system: cyclic;
+  symbols: 😀 👻 👽 🤖 🎃 😹 👋 👀 💋 ✅;
+  suffix: " ";
+}
+.l3 {
+	list-style: emoji;
+}
+p1{
+	font-size: 50px;
+	font-family: "Pacifico", cursive;
+	color: mediumaquamarine;
+	background-color: yellow;
+}
+@counter-style ykraincka {
+  system: cyclic;
+  symbols: А Б В Г Ґ Д Е Є Ж З И І Ї Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ь Ю Я;
+  suffix: " ";
+}
+.l4{
+	list-style: ykraincka;
+}

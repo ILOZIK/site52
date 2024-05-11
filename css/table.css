@@ -1,0 +1,78 @@
+body{
+	background-color: aquamarine;
+}
+p{
+	font-size: 50px;
+	color: fuchsia;
+	text-align: center;
+}
+table{
+	border: double 5px fuchsia;
+	width: 50%;
+	font-size: 24px;
+	border-collapse: collapse;
+	margin: auto;
+}
+th, td{
+	border: solid 2px blueviolet;
+	width: 25%;
+	height: 1cm;
+}
+tr:hover{
+	background-color: lightgrey;
+}
+td:hover{
+	background-image: url(https://i.gifer.com/Ylz2.gif);
+	color: saddlebrown;
+	text-transform: uppercase;
+	font-size: 1.2em;
+}
+tr:nth-child(even){
+	background-color: aqua;
+}
+tr:nth-child(odd){
+	background-color: pink;
+}
+.c1{
+	border: dashed black;
+}
+.c2{
+	border: dashed red;
+}
+.c3{
+	border: dashed darkgreen;
+}
+.c4{
+	border: dashed blue;
+}
+.c5{
+	border: dashed yellow;
+}
+.c6{
+	border: dashed royalblue;
+}
+.c7{
+	border: dashed fuchsia;
+}
+.c8{
+	border: dashed teal;
+}
+.c9{
+	border: dashed limegreen;
+}
+.c10{
+	border: dashed brown;
+}
+.c11{
+	border: dashed white;
+}
+caption{
+	background: linear-gradient(to left,red,orange,yellow,green,blue,indigo,purple);
+	text-transform: uppercase;
+	color: fuchsia;
+	font-weight: bold;
+	font-size: 2em;
+}
+.p1{
+	color: fuchsia;
+	font-family: "Pacifico", cursive;

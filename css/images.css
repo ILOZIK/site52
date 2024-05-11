@@ -1,0 +1,36 @@
+body{
+	background-color: lightyellow;
+	background-image: url(https://cdn.pixabay.com/animation/2022/09/16/16/43/16-43-27-842_512.gif);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: 100% 30%;
+	background-attachment: fixed;
+}
+p{
+	font-size: 0.8in;
+	background-image: url(https://media.istockphoto.com/id/1556220599/photo/warm-bright-background-image-with-an-autumn-theme.jpg?b=1&s=612x612&w=0&k=20&c=UH1JmYeZiLHEc-23-dYNCt61TEOk1mnMHGaGQUv5UxY=);
+	background-size: cover;
+}
+div{
+	width: 1600px;
+	height: 1600px;
+}
+#d1{
+	background-image: url(https://static.kyivpost.com/storage/2023/05/26/fce9ae9f09e5874563222fe85aa87956.jpg?w=1280&q=90&f=webp);
+	background-size: cover;
+}
+#d2{
+	background-image: url(https://wondersholidays.com/wp-content/uploads/2018/02/kiev1.jpg);
+	background-size: cover;
+}
+#img1{
+	width: 97%;
+	border: ridge 30px yellow;
+}
+#img2{
+	display: block;
+	margin: auto;
+	width: 50%;
+	border-radius: 50%;
+	box-shadow: 0px 10px 30px blue;
+}

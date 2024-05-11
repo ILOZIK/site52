@@ -1,0 +1,146 @@
+body{
+	background-color: lightblue;
+}
+p{
+	font-size: 50px;
+}
+.p1{
+	background-color: yellow;
+	color: darkblue;
+}
+.p2{
+	color: darkolivegreen;
+}
+.p3{
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+.p4{
+	 font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p5{
+	font-family: "Lucida Console", Courier, monospace;
+}
+.p6{
+	font-family: cursive;
+}
+.p7{
+	font-family: "Rubik Marker Hatch", system-ui;
+	color: orange;
+	text-shadow: 0 0 5px red;
+	text-decoration: underline;
+}
+.p8{
+	font-family: "Rubik Moonrocks", sans-serif;
+	color: yellow;
+	text-shadow: 3px 3px blue;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-decoration-color: orange;
+}
+.p9{
+	font-family: "Rubik Dirt", system-ui;
+	text-shadow: 3px -3px yellow;
+	color: blue;
+	text-decoration: underline;
+	text-decoration-color: red;
+	text-underline-position: under;
+	text-decoration-style: dashed;
+}
+.p10{
+	 font-family: "Rubik Distressed", system-ui;
+	 color: green;
+	 text-shadow: 3px -3px 10px grey;
+	 font-weight: 700px;
+}
+.p11{
+	font-family: "Pacifico", cursive;
+	font-size: 50px;
+	color: blue;
+	background-color: yellow;
+	font-style: italic;
+}
+.ex1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	color: yellow;
+	background-color: blue;
+}
+.ex2{
+	font-family: cursive;
+	font-size: 50px;
+	color: yellow;
+	background-color: blue;
+	font-weight: 900;
+}
+.ex3{
+	font-family: "Lobster", sans-serif;
+	font-variant: small-caps;
+	color: yellow;
+	background-color: blue;
+}
+.ex4{
+	font-family: "Rubik Gemstones", system-ui;
+	color: yellow;
+	background-color: blue;
+}
+.ex5{
+	font-family: "Rubik Wet Paint", system-ui;
+	color: red;
+	background-color: black;
+}
+.p12{
+	color: yellow;
+	background-color: blue;
+}
+.p13{
+	color: yellow;
+	background-color: blue;
+}
+.ex6{
+	text-shadow: 0 0 10px darkblue;
+	color: yellow;
+	background-color: orange;
+}
+.ex7{
+	text-shadow: 2px 2px darkblue;
+	color: yellow;
+	background-color: orange;
+}
+.ex8{
+	text-shadow: 3px 3px darkblue;
+	color: yellow;
+	background-color: orange;
+}
+.ex9{
+	text-shadow: 3px -3px darkblue;
+	text-transform: uppercase;
+	color: yellow;
+	background-color: orange;
+}
+.ex10{
+	 text-shadow:
+    1px 1px 2px black,
+    0 0 1em blue,
+    0 0 0.2em blue;
+  color: white;
+  font:
+    2.5em Georgia,
+    serif;
+    background-color: white;
+}
+.ex11{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-decoration-color: green;
+	height: 100px;
+	color: yellow;
+	background-color: blue;
+}
+.fl{
+	font-size: 2em;
+	color: orange;
+	font-family: "Rubik Gemstones", system-ui;
+	text-shadow: 5px -5px maroon;
+}
